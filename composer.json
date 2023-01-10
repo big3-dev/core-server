@@ -1,0 +1,13 @@
+{
+    "name": "big3/core-server",
+    "description": "The Server for Big3 services",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Big3\\CoreServer\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
